@@ -1,2 +1,3 @@
-# SQL-PruebasYMiniProyectos
-Pruebas y pequeños proyectos de SQL
+# SQL-Pruebas y mini proyectos
+
+Varias pruebas y pequeños proyectos de SQL
