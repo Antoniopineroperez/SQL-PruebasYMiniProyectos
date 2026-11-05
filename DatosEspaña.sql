@@ -1,0 +1,4 @@
+USE world;
+
+SELECT Name, Continent, Region, SurfaceArea, IndepYear, Population, LifeExpectancy, GNP, GNPOld, LocalName, GovernmentForm, HeadOfState, Capital, Code2
+FROM country WHERE Name = "Spain"
